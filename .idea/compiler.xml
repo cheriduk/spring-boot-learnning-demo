@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-ehcache" />
+        <module name="spring-boot-email" />
+        <module name="spring-boot-fremarker" />
+        <module name="spring-boot-jpa-ehcache" />
+        <module name="spring-boot-jsp-demo" />
+        <module name="spring-boot-messaging" />
+        <module name="spring-boot-scheduled" />
+        <module name="spring-boot-shiro" />
+        <module name="spring-boot-thymeleaf" />
+        <module name="webservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-docker" target="1.8" />
+      <module name="spring-boot-jsp" target="1.8" />
+      <module name="spring-boot-webservice" target="1.8" />
+      <module name="spring-boot-webservice-demo" target="1.8" />
+      <module name="webservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

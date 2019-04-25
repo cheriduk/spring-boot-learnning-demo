@@ -1,0 +1,9 @@
+spring:
+  cache:
+    ehcache:
+      config: classpath:config/ehcache.xml
+  datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      password: 1234
+      username: root
+      url: jdbc:mysql://127.0.0.1:3306/springboot

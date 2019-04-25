@@ -1,0 +1,14 @@
+spring:
+    freemarker:
+        allow-request-override: false
+        cache: true
+        charset: UTF-8
+        check-template-location: true
+        content-type: text/html
+        expose-request-attributes: false
+        expose-session-attributes: false
+        expose-spring-macro-helpers: false
+        suffix: .ftl
+        template-loader-path: classpath:/templates/  #模板保存的路径
+server:
+  port: 8888
