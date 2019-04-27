@@ -9,6 +9,7 @@
         <module name="spring-boot-ehcache" />
         <module name="spring-boot-email" />
         <module name="spring-boot-fremarker" />
+        <module name="spring-boot-i18n" />
         <module name="spring-boot-jpa-ehcache" />
         <module name="spring-boot-jsp-demo" />
         <module name="spring-boot-messaging" />

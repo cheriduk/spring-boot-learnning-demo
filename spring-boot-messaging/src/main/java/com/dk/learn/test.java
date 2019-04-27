@@ -17,7 +17,7 @@ public class test {
 	private static String Key = "";
 	
 	//手机号码，多个号码如13800000000,13800000001,13800000002
-	private static String smsMob = "";
+	private static String smsMob = "13800000002";
 	
 	//短信内容
 	private static String smsText = "验证码：8888";
