@@ -19,6 +19,9 @@
         <module>spring-boot-messaging</module>
         <module>spring-boot-scheduled</module>
         <module>spring-boot-i18n</module>
+        <module>spring-boot-i18n-v2</module>
+        <module>spring-boot-i18n-v3</module>
+        <module>spring-boot-i18n-Release</module>
     </modules>
 
     <parent>

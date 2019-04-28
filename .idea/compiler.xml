@@ -10,6 +10,9 @@
         <module name="spring-boot-email" />
         <module name="spring-boot-fremarker" />
         <module name="spring-boot-i18n" />
+        <module name="spring-boot-i18n-Release" />
+        <module name="spring-boot-i18n-v2" />
+        <module name="spring-boot-i18n-v3" />
         <module name="spring-boot-jpa-ehcache" />
         <module name="spring-boot-jsp-demo" />
         <module name="spring-boot-messaging" />

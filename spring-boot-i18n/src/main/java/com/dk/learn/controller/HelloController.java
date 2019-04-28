@@ -32,7 +32,7 @@ public class HelloController {
     @RequestMapping("/success")
     public String success(Map<String,Object> map){
         map.put("hello","原来是@RestController的问题");
-        return "success";
+        return "index";
     }
 }
 
