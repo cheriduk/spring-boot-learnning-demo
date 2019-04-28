@@ -60,7 +60,7 @@ public class ShiroConfig {
         /**
          * anon：匿名用户可访问
          * authc：认证用户可访问
-         * user：使用rememberMe可访问
+         * merchant：使用rememberMe可访问
          * perms：对应权限可访问
          * role：对应角色权限可访问
          **/

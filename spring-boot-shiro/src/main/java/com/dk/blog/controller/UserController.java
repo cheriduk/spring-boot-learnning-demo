@@ -24,7 +24,7 @@ public class UserController {
     public String add(HttpServletRequest request){
         UserBean bean = (UserBean) SecurityUtils.getSubject().getPrincipal();
         request.setAttribute("userName", bean.getName());
-        return "/user/index";
+        return "/merchant/index";
     }
 
     /**
