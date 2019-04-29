@@ -22,6 +22,9 @@
         <module>spring-boot-i18n-v2</module>
         <module>spring-boot-i18n-v3</module>
         <module>spring-boot-i18n-Release</module>
+        <module>spring-boot-file-download</module>
+        <module>spring-boot-upload</module>
+        <module>spring-boot-global-config</module>
     </modules>
 
     <parent>

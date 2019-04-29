@@ -8,7 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-ehcache" />
         <module name="spring-boot-email" />
+        <module name="spring-boot-file-download" />
         <module name="spring-boot-fremarker" />
+        <module name="spring-boot-global-config" />
         <module name="spring-boot-i18n" />
         <module name="spring-boot-i18n-Release" />
         <module name="spring-boot-i18n-v2" />
@@ -19,6 +21,7 @@
         <module name="spring-boot-scheduled" />
         <module name="spring-boot-shiro" />
         <module name="spring-boot-thymeleaf" />
+        <module name="spring-boot-upload" />
         <module name="webservice" />
       </profile>
     </annotationProcessing>
